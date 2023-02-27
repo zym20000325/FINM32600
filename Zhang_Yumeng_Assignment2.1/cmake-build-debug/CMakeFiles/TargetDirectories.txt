@@ -1,0 +1,3 @@
+/Users/yumengzhang/CLionProjects/Zhang_Yumeng_Assignment2/cmake-build-debug/CMakeFiles/Zhang_Yumeng_Assignment2.dir
+/Users/yumengzhang/CLionProjects/Zhang_Yumeng_Assignment2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yumengzhang/CLionProjects/Zhang_Yumeng_Assignment2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+# ninja log v5
+326	361	1674162572648943129	Zhang_Yumeng_Assignment1	18c21c166d1586bd
+0	4	0	clean	3c8e6cc385ee00ba
+1	326	1674162572612921114	CMakeFiles/Zhang_Yumeng_Assignment1.dir/Source.cpp.o	60efdb93f75bc890
+1	382	1674281851434646201	CMakeFiles/Zhang_Yumeng_Assignment1.dir/Source.cpp.o	60efdb93f75bc890
+0	316	1674281900716147177	CMakeFiles/Zhang_Yumeng_Assignment1.dir/CurrencyConverter.cpp.o	d2929f79a7afd3a5
+316	355	1674281900756761637	Zhang_Yumeng_Assignment1	5da985d4d6aad33c
+1	320	1674281964861664608	CMakeFiles/Zhang_Yumeng_Assignment1.dir/Source.cpp.o	60efdb93f75bc890
+320	352	1674281964895384527	Zhang_Yumeng_Assignment1	5da985d4d6aad33c
+0	4	0	clean	3c8e6cc385ee00ba
