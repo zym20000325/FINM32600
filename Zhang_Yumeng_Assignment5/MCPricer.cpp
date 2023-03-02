@@ -7,8 +7,15 @@
 
 double MCPricer::BoxMuller() {
 
-    double x = static_cast<double>(rand()) / RAND_MAX;
-    double y = static_cast<double>(rand()) /  RAND_MAX;
+//    srand(static_cast<unsigned int>(time(0)));
+
+    double x = 0;
+    double y = 0;
+
+    while (x == 0 or y == 0){
+        x = static_cast<double>(rand()) / RAND_MAX;
+        y = static_cast<double>(rand()) /  RAND_MAX;
+    }
 
     double z = sqrt(-2.0*log(x)) * cos(2 * std::numbers::pi * y);
 
@@ -20,6 +27,8 @@ double MCPricer::Price(const Option& option, double S0, double sigma, double rat
     double T = option.GetTimeToExpiration();
 
     double price = 0.0;
+
+    srand(325);
 
     for (unsigned int i = 0; i<paths; ++i){
 
